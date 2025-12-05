@@ -21,6 +21,10 @@
   "homepage": "https://github.com/sinan-muhammd/backend-elite#readme",
   "dependencies": {
     "cors": "^2.8.5",
+<<<<<<< HEAD
+=======
+    "json-serve": "^2.8.5",
+>>>>>>> 9d00962eb140671d18bee1d1724d6341b57ea090
     "json-server": "^0.17.4"
   }
 }
